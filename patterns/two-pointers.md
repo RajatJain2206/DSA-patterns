@@ -1,9 +1,9 @@
 # Two Pointers
 
-#Concept
+# Concept
 The Two Pointers pattern involves using two indices (or pointers) to iterate through data structures (usually arrays or linked lists) from different directions or at different speeds. It helps reduce time complexity in problems that require searching or comparing elements.
 
-#When to use
+# When to use
 - Sorted arrays or linked lists
 - Finding pairs or triplets with a target sum
 - Palindrome checks
@@ -11,7 +11,7 @@ The Two Pointers pattern involves using two indices (or pointers) to iterate thr
 - Reversing arrays or linked lists
 - Merging or comparing two sorted arrays
 
-#Example Problems
+# Example Problems
  Two Sum II - Leetcode 167
 
 Valid Palindrome - Leetcode 125
@@ -20,7 +20,7 @@ Valid Palindrome - Leetcode 125
 
  Remove Duplicates from Sorted Array - Leetcode 26
 
- #Template
+ # Template
 
  Two Sum 
 

@@ -25,7 +25,7 @@ Valid Palindrome - Leetcode 125
  Two Sum 
 
  // Example: Finding a pair with a given target sum in a sorted array
-
+```cpp
 #include <vector>
 #include <iostream>
 using namespace std;
@@ -63,7 +63,7 @@ int main() {
     return 0;
 }
 
-
+```
 # Common mistakes
 Make sure the array is sorted before using Two Pointers (unless the problem defines the pointer use in another way).
 

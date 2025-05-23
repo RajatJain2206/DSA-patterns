@@ -84,6 +84,7 @@ Floyd's Tortoise and Hare algorithm, also known as Floyd's Cycle Detection algor
 This algorithm employs two pointers, referred to as the "tortoise" and the "hare," to traverse the list.
 
 Tortoise: A pointer that advances one step at a time through the list.
+
 Hare: A pointer that advances two steps at a time through the list.
 Using these pointers, you progress until the hare catches up with the tortoise or a cycle is detected.
 
